@@ -1,2 +1,2 @@
 # apnacollege-demo
-author Sahil Sewani
+author-Sahil Sewani
